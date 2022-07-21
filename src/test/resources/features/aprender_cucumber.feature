@@ -23,3 +23,8 @@
     Dado que a entrega é dia 20/07/2022
     Quando a entrega atrasar 2 dias
     Então a e entrega será efetuada em 22/07/2022
+
+  Cenário: Deve calcular atraso na entrega da China
+    Dado que a entrega é dia 20/07/2022
+    Quando a entrega atrasar em 2 meses
+    Então a entrega será efetuada em 20/09/2022
