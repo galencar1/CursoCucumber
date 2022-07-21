@@ -6,4 +6,5 @@ import org.junit.runner.RunWith;
 @CucumberOptions(plugin = "pretty",
                 snippets = CucumberOptions.SnippetType.CAMELCASE)
 public class Runner {
+
 }
